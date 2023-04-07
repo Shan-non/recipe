@@ -8,3 +8,4 @@ greek dressing
 oregano
 salt
 pepper
+-all ingredient quantities are to taste
