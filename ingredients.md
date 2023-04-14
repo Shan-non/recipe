@@ -1,3 +1,5 @@
+Let's Begin!
+
 cucumbers
 tomtatoes
 bell pepper
@@ -9,3 +11,5 @@ oregano
 salt
 pepper
 -all ingredient quantities are to taste
+
+Enjoy my recipe!
